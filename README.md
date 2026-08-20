@@ -5,11 +5,13 @@ An interactive Power BI dashboard analyzing credit card transaction and customer
 ## 📊 Dashboard Preview
 
 ### Transaction Report
-![Credit Card Transaction Report](assets/dashboard-screenshots/transaction-report.png)
+![Credit Card Transaction Report](<img width="1268" height="695" alt="transaction-report" src="https://github.com/user-attachments/assets/b4fade31-b158-4862-be87-70e366a0907d" />
+
 *Revenue, transaction volume, and interest breakdown by card category, expenditure type, education level, customer job, and quarter*
 
 ### Customer Report
-![Credit Card Customer Report](assets/dashboard-screenshots/customer-report.png)
+![Credit Card Customer Report](<img width="1324" height="746" alt="customer-report" src="https://github.com/user-attachments/assets/ebd476e4-1169-4be4-acd9-9dafc708b022" />
+
 *Customer-level insights across age group, income, marital status, dependents, education, and top-performing states*
 
 ## 🔍 Key Insights
