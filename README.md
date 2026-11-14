@@ -5,7 +5,8 @@ An interactive Power BI dashboard analyzing credit card transaction and customer
 ## 📊 Dashboard Preview
 
 ### Transaction Report
-Credit Card Transaction Report<img width="1268" height="695" alt="transaction-report" src="https://github.com/user-attachments/assets/b4fade31-b158-4862-be87-70e366a0907d" />
+Credit Card Transaction Report<img width="1472" height="822" alt="image" src="https://github.com/user-attachments/assets/68341337-1fc3-4127-a64a-45cec4774ff9" />
+
 
 *Revenue, transaction volume, and interest breakdown by card category, expenditure type, education level, customer job, and quarter*
 
